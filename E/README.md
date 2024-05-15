@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (324 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (325 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
@@ -280,6 +280,7 @@
 * [Estelle Harris](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Estelle%20Harris.jpg)
 * [Estelle Parsons](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Estelle%20Parsons.jpg)
 * [Esther Acebo](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Esther%20Acebo.jpg)
+* [Esther Povitsky](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Esther%20Povitsky.jpg)
 * [Etan Cohen](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Etan%20Cohen.jpg)
 * [Ethan Coen](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Ethan%20Coen.jpg)
 * [Ethan Cutkosky](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Ethan%20Cutkosky.jpg)
