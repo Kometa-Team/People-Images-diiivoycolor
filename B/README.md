@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - B (459 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - B (460 Images)
 ![Grid](grid.jpg)
 
 * [B.J. Penn](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/B.J.%20Penn.jpg)
@@ -14,6 +14,7 @@
 * [Bam Margera](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Bam%20Margera.jpg)
 * [Bambadjan Bamba](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Bambadjan%20Bamba.jpg)
 * [Barack Obama](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Barack%20Obama.jpg)
+* [Barbara Białowąs](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Barbara%20Bia%C5%82ow%C4%85s.jpg)
 * [Barbara Bouchet](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Barbara%20Bouchet.jpg)
 * [Barbara Broccoli](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Barbara%20Broccoli.jpg)
 * [Barbara Carrera](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/B/Images/Barbara%20Carrera.jpg)
