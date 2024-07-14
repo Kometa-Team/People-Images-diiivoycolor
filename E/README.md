@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (332 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (333 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
@@ -219,6 +219,7 @@
 * [Enzo Robutti](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Enzo%20Robutti.jpg)
 * [Enzo Tarascio](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Enzo%20Tarascio.jpg)
 * [Eoin Macken](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eoin%20Macken.jpg)
+* [Eri Kitamura](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eri%20Kitamura.jpg)
 * [Eric André](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eric%20Andr%C3%A9.jpg)
 * [Eric Bana](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eric%20Bana.jpg)
 * [Eric Bauza](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eric%20Bauza.jpg)
