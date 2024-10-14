@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - D (614 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - D (615 Images)
 ![Grid](grid.jpg)
 
 * [D.B. Woodside](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/D.B.%20Woodside.jpg)
@@ -341,6 +341,7 @@
 * [David-Paul Grove](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/David-Paul%20Grove.jpg)
 * [Dawn Dininger](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Dawn%20Dininger.jpg)
 * [Dawn French](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Dawn%20French.jpg)
+* [Dawnn Lewis](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Dawnn%20Lewis.jpg)
 * [Daws Butler](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Daws%20Butler.jpg)
 * [Dax Griffin](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Dax%20Griffin.jpg)
 * [Dax Shepard](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/D/Images/Dax%20Shepard.jpg)
