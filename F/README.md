@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - F (168 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - F (169 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/F.%20Gary%20Gray.jpg)
@@ -56,6 +56,7 @@
 * [Fernando Soto](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Fernando%20Soto.jpg)
 * [Feroz Abbasi](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Feroz%20Abbasi.jpg)
 * [Fileena Bahris](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Fileena%20Bahris.jpg)
+* [Filip Berg](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Filip%20Berg.jpg)
 * [Finn Cole](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Finn%20Cole.jpg)
 * [Finn Wittrock](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Finn%20Wittrock.jpg)
 * [Finn Wolfhard](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/F/Images/Finn%20Wolfhard.jpg)
