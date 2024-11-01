@@ -1,6 +1,7 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - A (771 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - A (772 Images)
 ![Grid](grid.jpg)
 
+* [AJ Kane](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/AJ%20Kane.jpg)
 * [Aamir Khan](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/Aamir%20Khan.jpg)
 * [Aanand L. Rai](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/Aanand%20L.%20Rai.jpg)
 * [Aaron Ashmore](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/Aaron%20Ashmore.jpg)

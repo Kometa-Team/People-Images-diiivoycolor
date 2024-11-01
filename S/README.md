@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (672 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (673 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -235,6 +235,7 @@
 * [Sebastián Viveros](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Sebasti%C3%A1n%20Viveros.jpg)
 * [Sedona Fuller](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Sedona%20Fuller.jpg)
 * [Seiji Mizushima](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Seiji%20Mizushima.jpg)
+* [Seijun Suzuki](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Seijun%20Suzuki.jpg)
 * [Selena Anduze](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Selena%20Anduze.jpg)
 * [Selena Gomez](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Selena%20Gomez.jpg)
 * [Selene Luna](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/S/Images/Selene%20Luna.jpg)
