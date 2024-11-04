@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (612 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (613 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -151,6 +151,7 @@
 * [Chabris Napier-Lawrence](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chabris%20Napier-Lawrence.jpg)
 * [Chace Crawford](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chace%20Crawford.jpg)
 * [Chad Daniels](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chad%20Daniels.jpg)
+* [Chad Hayes](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chad%20Hayes.jpg)
 * [Chad L. Coleman](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chad%20L.%20Coleman.jpg)
 * [Chad Michael Murray](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chad%20Michael%20Murray.jpg)
 * [Chad Oman](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/C/Images/Chad%20Oman.jpg)
