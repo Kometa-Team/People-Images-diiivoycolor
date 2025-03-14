@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - V (111 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - V (112 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/V.J.%20Foster.jpg)
@@ -8,6 +8,7 @@
 * [Valentina Cortese](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valentina%20Cortese.jpg)
 * [Valeria Bruni Tedeschi](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valeria%20Bruni%20Tedeschi.jpg)
 * [Valerie Leon](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valerie%20Leon.jpg)
+* [Valerie Wildman](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valerie%20Wildman.jpg)
 * [Valerio Aprea](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valerio%20Aprea.jpg)
 * [Valerio Mastandrea](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Valerio%20Mastandrea.jpg)
 * [Van Quattro](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/V/Images/Van%20Quattro.jpg)
