@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (701 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (702 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -698,6 +698,7 @@
 * [Ryo Narita](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryo%20Narita.jpg)
 * [Ryohei Kimura](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryohei%20Kimura.jpg)
 * [Ryota Osaka](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryota%20Osaka.jpg)
+* [Ryotaro Okiayu](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryotaro%20Okiayu.jpg)
 * [Ryuichi Hiroki](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryuichi%20Hiroki.jpg)
 * [Ryunosuke Kamiki](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryunosuke%20Kamiki.jpg)
 * [Ryusei Nakao](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Ryusei%20Nakao.jpg)
