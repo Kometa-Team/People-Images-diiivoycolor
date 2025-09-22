@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (795 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (796 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -527,6 +527,7 @@
 * [Sope Aluko](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sope%20Aluko.jpg)
 * [Sophi Bairley](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophi%20Bairley.jpg)
 * [Sophia Alongi](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophia%20Alongi.jpg)
+* [Sophia Bush](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophia%20Bush.jpg)
 * [Sophia Di Martino](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophia%20Di%20Martino.jpg)
 * [Sophia Loren](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophia%20Loren.jpg)
 * [Sophia Lorenti](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Sophia%20Lorenti.jpg)
