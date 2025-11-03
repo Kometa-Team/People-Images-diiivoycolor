@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - D (714 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - D (715 Images)
 ![Grid](grid.jpg)
 
 * [D. David Morin](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/D.%20David%20Morin.jpg)
@@ -385,6 +385,7 @@
 * [David Van Horn](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Van%20Horn.jpg)
 * [David Walliams](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Walliams.jpg)
 * [David Warner](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Warner.jpg)
+* [David Weaver](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Weaver.jpg)
 * [David Wenham](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Wenham.jpg)
 * [David Wike](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Wike.jpg)
 * [David Wilmot](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/D/Images/David%20Wilmot.jpg)

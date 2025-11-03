@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (796 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - S (797 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -556,6 +556,7 @@
 * [Spencer Tracy](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spencer%20Tracy.jpg)
 * [Spencer Treat Clark](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spencer%20Treat%20Clark.jpg)
 * [Spencer Wilding](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spencer%20Wilding.jpg)
+* [Spike Brandt](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spike%20Brandt.jpg)
 * [Spike Jonze](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spike%20Jonze.jpg)
 * [Spike Lee](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spike%20Lee.jpg)
 * [Spike Leighton](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/S/Images/Spike%20Leighton.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - J (1380 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - J (1381 Images)
 ![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/J%27Dvonte.jpg)
@@ -456,6 +456,7 @@
 * [Jeff Prewett](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Prewett.jpg)
 * [Jeff Ross](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Ross.jpg)
 * [Jeff Tremaine](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Tremaine.jpg)
+* [Jeff Wamester](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Wamester.jpg)
 * [Jeff Wilbusch](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Wilbusch.jpg)
 * [Jeff Wolfe](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeff%20Wolfe.jpg)
 * [Jeffrey Boam](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/J/Images/Jeffrey%20Boam.jpg)

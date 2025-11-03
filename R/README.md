@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (705 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (706 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -302,6 +302,7 @@
 * [Rick Lagina](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20Lagina.jpg)
 * [Rick McCallum](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20McCallum.jpg)
 * [Rick McCrank](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20McCrank.jpg)
+* [Rick Morales](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20Morales.jpg)
 * [Rick Moranis](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20Moranis.jpg)
 * [Rick Rosenthal](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20Rosenthal.jpg)
 * [Rick Schroder](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rick%20Schroder.jpg)

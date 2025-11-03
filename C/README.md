@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (712 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (713 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -162,6 +162,7 @@
 * [Caveh Zahedi](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Caveh%20Zahedi.jpg)
 * [Cec Linder](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cec%20Linder.jpg)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecil%20B.%20DeMille.jpg)
+* [Cecilia Aranovich](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecilia%20Aranovich.jpg)
 * [Cecily Strong](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecily%20Strong.jpg)
 * [Cedric Sanders](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cedric%20Sanders.jpg)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cedric%20Yarbrough.jpg)

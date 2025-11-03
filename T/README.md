@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - T (546 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - T (547 Images)
 ![Grid](grid.jpg)
 
 * [T. J. Miller](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/T.%20J.%20Miller.jpg)
@@ -184,6 +184,7 @@
 * [Thomas Browne Henry](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Browne%20Henry.jpg)
 * [Thomas Coombes](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Coombes.jpg)
 * [Thomas Curtis](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Curtis.jpg)
+* [Thomas Dekker](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Dekker.jpg)
 * [Thomas Doherty](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Doherty.jpg)
 * [Thomas F. Wilson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20F.%20Wilson.jpg)
 * [Thomas Haden Church](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/T/Images/Thomas%20Haden%20Church.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (396 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (397 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
@@ -350,6 +350,7 @@
 * [Ethan Hawke](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethan%20Hawke.jpg)
 * [Ethan Lawrence](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethan%20Lawrence.jpg)
 * [Ethan Phillips](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethan%20Phillips.jpg)
+* [Ethan Spaulding](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethan%20Spaulding.jpg)
 * [Ethan Suplee](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethan%20Suplee.jpg)
 * [Ethel Griffies](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ethel%20Griffies.jpg)
 * [Eugene Cordero](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Eugene%20Cordero.jpg)

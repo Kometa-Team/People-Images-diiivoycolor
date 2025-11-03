@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (494 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (495 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -96,6 +96,7 @@
 * [Lauren Iungerich](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Iungerich.jpg)
 * [Lauren Lapkus](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Lapkus.jpg)
 * [Lauren Lee Smith](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Lee%20Smith.jpg)
+* [Lauren Montgomery](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Montgomery.jpg)
 * [Lauren Revard](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Revard.jpg)
 * [Lauren Ridloff](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Ridloff.jpg)
 * [Lauren Shuler Donner](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lauren%20Shuler%20Donner.jpg)

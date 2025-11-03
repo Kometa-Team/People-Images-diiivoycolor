@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - P (442 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - P (443 Images)
 ![Grid](grid.jpg)
 
 * [P.H. Moriarty](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/P.H.%20Moriarty.jpg)
@@ -146,6 +146,7 @@
 * [Paul Gleason](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Gleason.jpg)
 * [Paul Greengrass](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Greengrass.jpg)
 * [Paul Gross](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Gross.jpg)
+* [Paul Gruber](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Gruber.jpg)
 * [Paul Guilfoyle](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Guilfoyle.jpg)
 * [Paul Hagen](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Hagen.jpg)
 * [Paul Haggis](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/P/Images/Paul%20Haggis.jpg)
