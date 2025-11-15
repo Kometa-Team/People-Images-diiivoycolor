@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (706 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (707 Images)
 ![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
@@ -381,6 +381,7 @@
 * [Robbie Rist](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robbie%20Rist.jpg)
 * [Robbie Sublett](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robbie%20Sublett.jpg)
 * [Robby Benson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robby%20Benson.jpg)
+* [Rober De Niro](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rober%20De%20Niro.jpg)
 * [Robert Aldrich](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Aldrich.jpg)
 * [Robert Altman](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Altman.jpg)
 * [Robert Aramayo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Aramayo.jpg)

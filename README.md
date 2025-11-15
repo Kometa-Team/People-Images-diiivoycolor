@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) (11191 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) (11192 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -8683,7 +8683,7 @@
 * [Quinta Brunson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/Q/Images/Quinta%20Brunson.jpg)
 * [Quinton Jackson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/Q/Images/Quinton%20Jackson.jpg)
 </details>
-<details><summary><a href="R">R (706 Images)</a></summary>
+<details><summary><a href="R">R (707 Images)</a></summary>
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/R.%20Madhavan.jpg)
@@ -9065,6 +9065,7 @@
 * [Robbie Rist](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robbie%20Rist.jpg)
 * [Robbie Sublett](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robbie%20Sublett.jpg)
 * [Robby Benson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robby%20Benson.jpg)
+* [Rober De Niro](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Rober%20De%20Niro.jpg)
 * [Robert Aldrich](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Aldrich.jpg)
 * [Robert Altman](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Altman.jpg)
 * [Robert Aramayo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/R/Images/Robert%20Aramayo.jpg)
