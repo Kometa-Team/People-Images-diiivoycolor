@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (397 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (398 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
@@ -326,6 +326,7 @@
 * [Ernest Cline](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernest%20Cline.jpg)
 * [Ernest Lehman](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernest%20Lehman.jpg)
 * [Ernest Tidyman](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernest%20Tidyman.jpg)
+* [Ernie Barbarash](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernie%20Barbarash.jpg)
 * [Ernie Hudson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernie%20Hudson.jpg)
 * [Ernie Reyes Jr.](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernie%20Reyes%20Jr..jpg)
 * [Ernst Lubitsch](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/E/Images/Ernst%20Lubitsch.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (713 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - C (715 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -120,6 +120,7 @@
 * [Casey Kasem](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Casey%20Kasem.jpg)
 * [Casey Siemaszko](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Casey%20Siemaszko.jpg)
 * [Caspar Phillipson](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Caspar%20Phillipson.jpg)
+* [Casper Kelly](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Casper%20Kelly.jpg)
 * [Casper Van Dien](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Casper%20Van%20Dien.jpg)
 * [Cassandra Gava](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cassandra%20Gava.jpg)
 * [Cassandra Harris](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cassandra%20Harris.jpg)
@@ -163,6 +164,7 @@
 * [Cec Linder](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cec%20Linder.jpg)
 * [Cecil B. DeMille](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecil%20B.%20DeMille.jpg)
 * [Cecilia Aranovich](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecilia%20Aranovich.jpg)
+* [Cecilia Cheung](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecilia%20Cheung.jpg)
 * [Cecily Strong](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cecily%20Strong.jpg)
 * [Cedric Sanders](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cedric%20Sanders.jpg)
 * [Cedric Yarbrough](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/C/Images/Cedric%20Yarbrough.jpg)

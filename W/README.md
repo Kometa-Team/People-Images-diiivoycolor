@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - W (196 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - W (197 Images)
 ![Grid](grid.jpg)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/W.%20Bruce%20Cameron.jpg)
@@ -64,6 +64,7 @@
 * [Wes Chatham](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wes%20Chatham.jpg)
 * [Wes Craven](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wes%20Craven.jpg)
 * [Wes Jetton](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wes%20Jetton.jpg)
+* [Wes Lo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wes%20Lo.jpg)
 * [Wes Studi](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wes%20Studi.jpg)
 * [Wesley Kimmel](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wesley%20Kimmel.jpg)
 * [Wesley Snipes](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/W/Images/Wesley%20Snipes.jpg)
