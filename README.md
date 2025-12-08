@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) (11256 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) (11258 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -10825,7 +10825,7 @@
 * [Uwe Boll](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/U/Images/Uwe%20Boll.jpg)
 * [Uzo Aduba](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/U/Images/Uzo%20Aduba.jpg)
 </details>
-<details><summary><a href="V">V (127 Images)</a></summary>
+<details><summary><a href="V">V (129 Images)</a></summary>
 
 * [V.J. Foster](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -10903,6 +10903,8 @@
 * [Vin Diesel](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vin%20Diesel.jpg)
 * [Vinani Mwazanzale](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vinani%20Mwazanzale.jpg)
 * [Vinay Pathak](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vinay%20Pathak.jpg)
+* [Vince McMahon Sr.](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vince%20McMahon%20Sr..jpg)
+* [Vince McMahon](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vince%20McMahon.jpg)
 * [Vince Pisani](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vince%20Pisani.jpg)
 * [Vince Vaughn](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vince%20Vaughn.jpg)
 * [Vincent Cassel](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vincent%20Cassel.jpg)
