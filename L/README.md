@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (503 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (505 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -154,6 +154,8 @@
 * [Lee Jun-ho](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Jun-ho.jpg)
 * [Lee Jung-eun](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Jung-eun.jpg)
 * [Lee Jung-jae](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Jung-jae.jpg)
+* [Lee Kwang-hoon](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Kwang-hoon.jpg)
+* [Lee Kwang-hoon_pushed](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Kwang-hoon_pushed.jpg)
 * [Lee Latchford](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Latchford.jpg)
 * [Lee Lik-chi](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Lik-chi.jpg)
 * [Lee Mack](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Lee%20Mack.jpg)
