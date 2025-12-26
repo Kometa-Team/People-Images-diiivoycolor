@@ -1,7 +1,8 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - O (97 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - O (98 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
+* [O-T Fagbenle](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/O/Images/O-T%20Fagbenle.jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/O/Images/O.T.%20Fagbenle.jpg)
 * [Obie Matthew](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/O/Images/Obie%20Matthew.jpg)
 * [Octavia Spencer](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/O/Images/Octavia%20Spencer.jpg)
