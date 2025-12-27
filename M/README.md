@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - M (1062 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - M (1064 Images)
 ![Grid](grid.jpg)
 
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -106,6 +106,7 @@
 * [Manny Perry](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manny%20Perry.jpg)
 * [Manoj Bajpayee](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manoj%20Bajpayee.jpg)
 * [Manoj Muntashir](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manoj%20Muntashir.jpg)
+* [Manolo Solo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manolo%20Solo.jpg)
 * [Manu Bennett](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manu%20Bennett.jpg)
 * [Manuel Garcia-Rulfo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manuel%20Garcia-Rulfo.jpg)
 * [Manuel Klein](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Manuel%20Klein.jpg)
@@ -322,6 +323,7 @@
 * [Marshall Bell](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Marshall%20Bell.jpg)
 * [Marshall Neilan](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Marshall%20Neilan.jpg)
 * [Marshawn Lynch](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Marshawn%20Lynch.jpg)
+* [Marta Hazas](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Marta%20Hazas.jpg)
 * [Marteen](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Marteen.jpg)
 * [Martha Plimpton](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Martha%20Plimpton.jpg)
 * [Martha Smith](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/M/Images/Martha%20Smith.jpg)

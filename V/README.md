@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - V (129 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - V (130 Images)
 ![Grid](grid.jpg)
 
 * [V.J. Foster](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/V.J.%20Foster.jpg)
@@ -43,6 +43,7 @@
 * [Veronica Cartwright](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Veronica%20Cartwright.jpg)
 * [Veronica Falcón](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Veronica%20Falc%C3%B3n.jpg)
 * [Veryl Jones](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Veryl%20Jones.jpg)
+* [Verónica Echegui](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Ver%C3%B3nica%20Echegui.jpg)
 * [Vic Armstrong](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vic%20Armstrong.jpg)
 * [Vic Carmen Sonne](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vic%20Carmen%20Sonne.jpg)
 * [Vic Chao](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/V/Images/Vic%20Chao.jpg)

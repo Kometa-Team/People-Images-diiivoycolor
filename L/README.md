@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (505 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - L (506 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -214,6 +214,7 @@
 * [Leonardo Nam](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leonardo%20Nam.jpg)
 * [Leonie Benesch](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leonie%20Benesch.jpg)
 * [Leonor Varela](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leonor%20Varela.jpg)
+* [Leonor Watling](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leonor%20Watling.jpg)
 * [Leopoldo Trieste](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leopoldo%20Trieste.jpg)
 * [Leora Dana](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leora%20Dana.jpg)
 * [Leos Carax](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/L/Images/Leos%20Carax.jpg)
