@@ -1,9 +1,11 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - F (202 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - F (204 Images)
 ![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/F.%20Murray%20Abraham.jpg)
 * [F. W. Murnau](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/F.%20W.%20Murnau.jpg)
+* [FAKELuis Tosar](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/FAKELuis%20Tosar.jpg)
+* [FAKEOlivia Cheng](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/FAKEOlivia%20Cheng.jpg)
 * [Fabien Frankel](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/Fabien%20Frankel.jpg)
 * [Fabio D'Innocenzo](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/Fabio%20D%27Innocenzo.jpg)
 * [Fabrice Gianfermi](https://raw.githubusercontent.com/kometa-team/People-Images-diiivoycolor/master/F/Images/Fabrice%20Gianfermi.jpg)
