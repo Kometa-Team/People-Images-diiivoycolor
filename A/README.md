@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY Color (diiivoycolor) - A (1066 Images)
-![Grid](grid.jpg)
 
 * [A. Edward Sutherland](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/A.%20Edward%20Sutherland.jpg)
 * [A. Michael Baldwin](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/A/Images/A.%20Michael%20Baldwin.jpg)

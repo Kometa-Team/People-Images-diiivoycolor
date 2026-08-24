@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY Color (diiivoycolor) - N (356 Images)
-![Grid](grid.jpg)
 
 * [N. Linguswamy](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/N/Images/N.%20Linguswamy.jpg)
 * [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)

@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY Color (diiivoycolor) - J (1565 Images)
-![Grid](grid.jpg)
 
 * [J'Dvonte](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/J/Images/J%27Dvonte.jpg)
 * [J. A. Bayona](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/J/Images/J.%20A.%20Bayona.jpg)

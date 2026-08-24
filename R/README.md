@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY Color (diiivoycolor) - R (825 Images)
-![Grid](grid.jpg)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/R.%20Madhavan.jpg)

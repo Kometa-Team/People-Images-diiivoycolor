@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY Color (diiivoycolor) - E (459 Images)
-![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.J.%20Bonilla.jpg)
