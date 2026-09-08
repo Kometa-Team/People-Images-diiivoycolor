@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (529 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - E (531 Images)
 
 * [E. G. Daily](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.%20G.%20Daily.jpg)
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/E.G.%20Marshall.jpg)
@@ -105,7 +105,9 @@
 * [Ehren Kruger](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Ehren%20Kruger.jpg)
 * [Ehren McGhehey](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Ehren%20McGhehey.jpg)
 * [Ei Aoki](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Ei%20Aoki.jpg)
+* [Eiji Funakoshi](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eiji%20Funakoshi.jpg)
 * [Eiji Gō](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eiji%20G%C5%8D.jpg)
+* [Eiko Masuyama](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eiko%20Masuyama.jpg)
 * [Eileen Atkins](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eileen%20Atkins.jpg)
 * [Eion Bailey](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eion%20Bailey.jpg)
 * [Eisner und Fellner](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/E/Images/Eisner%20und%20Fellner.jpg)
