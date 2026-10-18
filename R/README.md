@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (935 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - R (936 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/R.%20Madhavan.jpg)
@@ -168,6 +168,7 @@
 * [Ray Wise](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Ray%20Wise.jpg)
 * [Raymond Ablack](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20Ablack.jpg)
 * [Raymond Chandler](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20Chandler.jpg)
+* [Raymond Chow](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20Chow.jpg)
 * [Raymond Cruz](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20Cruz.jpg)
 * [Raymond J. Barry](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20J.%20Barry.jpg)
 * [Raymond Lam Fung](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/R/Images/Raymond%20Lam%20Fung.jpg)
