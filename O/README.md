@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY Color (diiivoycolor) - O (149 Images)
+# Kometa People Images - DIIIVOY Color (diiivoycolor) - O (150 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O-T Fagbenle](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/O-T%20Fagbenle.jpg)
@@ -29,6 +29,7 @@
 * [Ol Parker](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Ol%20Parker.jpg)
 * [Olalla Hernández](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Olalla%20Hern%C3%A1ndez.jpg)
 * [Oleksandr Rodnyanskyy](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Oleksandr%20Rodnyanskyy.jpg)
+* [Oleksandr Rudynskyi](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Oleksandr%20Rudynskyi.jpg)
 * [Olf Fischer](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Olf%20Fischer.jpg)
 * [Olga Karlatos](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Olga%20Karlatos.jpg)
 * [Olga Kurylenko](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoycolor/master/O/Images/Olga%20Kurylenko.jpg)
